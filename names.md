@@ -4,6 +4,6 @@
 
 1. pkratoch
 2. lruzicka
-3. Jaromír Wysoglad
-4.
+3. bonco
+4. Jaromír Wysoglad
 5.
